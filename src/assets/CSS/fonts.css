@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'GILB';
+	src: local('GILB'), local('GILB'),
+			url('./Fonts/GILB.TTF') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Gill Sans';
+	src: local('Gill Sans Light'), local('Gill Sans Light'),
+			url('./Fonts/Gill\ Sans\ Light.otf') format('otf');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Gill Sans';
+	src: local('Gill Sans'), local('Gill Sans'),
+			url('./Fonts/Gill\ Sans.otf') format('otf');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
